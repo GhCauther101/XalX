@@ -1,2 +1,0 @@
-# XalX
-calculator for android
